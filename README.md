@@ -12,3 +12,5 @@ Other functionality includes:
 - displaying teacher contact information
 
 Each assignment type has its own dictionary, where the values are stored as a list.
+
+[![discord-bot.png](https://i.postimg.cc/mkmNRZ7j/discord-bot.png)](https://postimg.cc/jnJJ4bgn)
