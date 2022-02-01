@@ -209,4 +209,4 @@ async def book_links(ctx):
     s = "www.link-to-book.com\nalso purchasable @ amazon.com/link_to_book"
     await ctx.reply(s)
 
-bot.run('OTM2ODE1OTMxNTEyOTg3NzE5.YfSr0w.dMBWIOFDokK0Mxe5MIHIFtePZUo')
+bot.run('token')
