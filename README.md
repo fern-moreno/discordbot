@@ -1,7 +1,7 @@
-# discordbot
+# syallabus bot
 
 This bot is designed for college students who create Discord servers to communicate with each other about a college course they are enrolled in.
-Depending on a command a user enters, the bot will output different information about the course. For example, if someone types `.office_hours` the bot will 
+Depending on a command that the user types, the bot will output different information about the course. For example, if someone types `.office_hours` the bot will 
 display the current office hours that the teacher has for the day. Typing in `.current_assignments hw` will display upcoming homework assignments that are 
 due. 
 
